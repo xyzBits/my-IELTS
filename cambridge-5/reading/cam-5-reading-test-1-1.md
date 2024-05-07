@@ -138,24 +138,65 @@ After its publication, his Dictionary was not serious rivalled for over a centur
 
 ## p7 
 After many vicissitudes the Dictionary was finally published on 15 April 1775. 
+- vicssitude: 变迁；人生的沉浮；兴衰枯荣
 
-It was instantly recognised as a landmark throughout Europe. 'This very noble work,' wrote the leading Italian lexicographer, 'will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.
+It was instantly recognised as a landmark throughout Europe.
+- instantly: 立即；立刻；马上
+- recognized: 
+- landmark: 地标
+
+'This very noble work,' wrote the leading Italian lexicographer, 'will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.
+- noble: 高尚的；高贵的；贵族的；崇高的；宏伟的；壮丽的
+- leading: 一流的；最重要的
+- Italian: 
+- lexicographer: 词典编纂者
+- perpetual: 永恒的，永久的
+- monument: 纪念碑(或馆、堂、像等)；丰碑；历史遗迹；有历史价值的建筑；永久的典范
+- Fame: 名声；名气；声誉
+
 
 ' The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration.
+- celebration: 庆祝；庆祝活动；庆典；颂扬
 
 # p8
 Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'. 
+- patronage: 赞助；惠顾；资助；光顾；(掌权者给予提挈以换取支持的)互惠互利
+- obscurity: 默默无闻；晦涩；无名；黑暗；费解；昏暗；难懂的事
+- retirement: 退休；退休年龄
+- shelter: 避难所；收容所
+- bower: 树荫处；阴凉处
+- amidst: 在…中；中间；在…过程中
+- inconvenience: 不便；麻烦；困难
+- distraction: 分散注意力
+- sickness: 病；疾病
+- sorrow: 悲伤，悲痛
 
 For all its faults and eccentricities his two-volume work is a masterpiece and a landmark, in his own words, 'setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words'. 
+- fault: 责任；缺陷；过失；缺点
+- eccentricity: 古怪；怪癖
+- two-volume:
+- masterpiece: 杰作；代表作；名著
+- orthography: (文字的)拼写体系，拼写法
+- analogy: 类比；比喻
+- regulating: 调节，控制
+- ascertain: 查明；弄清
+
 
 It is the cornerstone of Standard English, an achievement which, in James Boswell's words,'conferred stability on the language of his country'.
+- cornerstone: 基石；基础
+- confer: 商讨；授予(奖项、学位、荣誉或权利)；协商；交换意见
+
 
 
 
 # p9
 The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension.
+- esteem: 尊重；敬重；好评
+- prevail: 盛行；流行；普遍存在
+- pension: 养老金，退休金
 
 From then on, he was to become the Johnson of folklore.
+- folklore: 民俗；民间传说
 
 
 
