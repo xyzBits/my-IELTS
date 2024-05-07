@@ -81,6 +81,82 @@ John signed the contract for Dictionary with the bookseller Robert Dosley at a b
 - set up: create or arrange
 
 
+## p5 
+James Boswell, his biographer, describe the garret where Johnson worked as 'fitted up like a counting house' with a long desk running down the middle at which 
+the copying clerks would work standing up. 
+- biographer: 传记作者
+- garret: 阁楼；顶楼小屋
+- fitted up: 装配好的
+- couting house: 账房
+- running down: 逐渐减少；全熔化
+- clerk: 店员；职员
+- copying: 抄写的职员
+
+Johnson himself was stationed on a rickety chair at an 'old crazy deal talbe' surrounded by a chaos of borrowed books. 
+- was stationed: 被派驻，坐在
+- rickety: 摇摇欲坠；不结实的；不稳固的；易折断的
+- deal talbe: 方案桌
+- rickety chair: 快要散架的椅子
+
+
+He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation.
+- whilst: 同时；在…时，在…的过程中；虽然，尽管；
+- 在准备 阶段 就去世了
+
+## p6 
+The work was immense: filling about eighty large notebooks (and without a library to hand), Johnson wrote the definition of over 40,000 words, and illustrated their many meaning with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time.
+- immense: 巨大的；极大的
+- filling:填满；填补(洞、孔)；使充满(感情)；装满；注满；堵塞
+- quotation: 引用；报价；引文
+- writing: 书写；文章；著作
+- drawn: 
+
+He did not expect to achieve complete originality. 
+- originality: 创意；独创性；独特构思
+
+Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. 
+- draw on: 汲取最好的
+- heroic: 英雄的；英勇的
+- synthesis: 合成；综合；结合；综合体
+
+In fact, it was very much more.
+- very much more: 不仅限于此
+
+Unlike his predecessors, Johnson treadted English very practically, as a living language, with many different shades of meaning. 
+- predecessor: 前任；原先的东西；被替代的事物
+- different shade: 不同的阴影
+- living language: 活着的语言
+
+He adopted his definitions on the principle of English common law-according to precedent. 
+- adopt: 采用
+- law-according: 依法
+- precedent: 先例；传统
+
+After its publication, his Dictionary was not serious rivalled for over a century.
+- rival: 竞争 
+
+
+## p7 
+After many vicissitudes the Dictionary was finally published on 15 April 1775. 
+
+It was instantly recognised as a landmark throughout Europe. 'This very noble work,' wrote the leading Italian lexicographer, 'will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.
+
+' The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration.
+
+# p8
+Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'. 
+
+For all its faults and eccentricities his two-volume work is a masterpiece and a landmark, in his own words, 'setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words'. 
+
+It is the cornerstone of Standard English, an achievement which, in James Boswell's words,'conferred stability on the language of his country'.
+
+
+
+# p9
+The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension.
+
+From then on, he was to become the Johnson of folklore.
+
 
 
 
