@@ -1,39 +1,37 @@
 # Test 01-Passage 1: Johnsons's Dictionary 
 
 ## p1
- For the century before Johnson's Dictionary was published in 1775, 
-there had been concern about the state of the English language. 
+ For the century before Johnson's Dictionary was published in 1775, there had been concern about the state of the English language.
 
-There was no standard way of speaking or writing and no argeement 
-as to the best way of bringing some order to the chaos of English spelling. 
+- concern: (尤指许多人共同的)担心，忧虑；关心；公司；关爱；(对人、组织等)重要的事情；（某人）负责的事，有权知道的事
+
+There was no standard way of speaking or writing and no argeement
+as to the best way of bringing some order to the chaos of English spelling.
+
+- agreement: 协定；同意；(意见或看法)一致；契约；应允；协议
+- "as to the best way of bringing some order to the chaos of English spelling" 是一个介词短语引导的从句，用来说明前面提到的 "no agreement" 的具体内容
 
 Dr. Johnson privided the solution.
 
-- "as to the best way of bringing some order to the chaos of English spelling" 是一个介词短语引导的从句，用来说明前面提到的 "no agreement" 的具体内容
+
 
 ## p2
-There had, of course, been dictionaries in the past, 
-the first of these being a little book of some 120 pages, 
-compiled by a certain Robert Cawdray, 
-published 1604 under the title A Table Alphabeticall 'of hard unusuall English Works'.
+There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published 1604 under the title A Table Alphabeticall 'of hard unusuall English Words'.
 
-Like the various dictionaries that came after it during the seventeenth century, 
-Cawdray's tended to concentrate on 'scholarly' words; 
-one function of dictionary was to enable its student to convey and impression of fine learning.
+- compile: 编写 编译
+- certain: 某人，某种；肯定；确信；确实；无疑；某某，某位，一位叫…的；轻微的
+- alphabeticall: 按字母排序的
+- unusual: 特别的
 
+Like the various dictionaries that came after it during the seventeenth century, Cawdray's tended to concentrate on 'scholarly' words; 
+one function of dictionary was to enable its student to convey the impression of fine learning.
 
+- convey: 传达 传递 表达
+- learning: 学识
 
 
 ## p3
-Beyond the practical need to make order out of chaos, 
-the rise of dictionaries is associated with the rise of the English middle class, 
-who were anxious to define and circumscribe the various worlds to conquer-lexical 
-as well as social and commerical. 
-
-It is highly appropriate that Dr Samuel Johnson, 
-the very model of an eighteenth-century literary man, 
-as famous in his own times as in ours, 
-should have pulished his Dictionary at the very beginning of the heyday of the middle class.
+Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer-lexical as well as social and commerical. 
 
 - "as well as" 与 "and" 都可以用来连接两个并列的成分，但它们在用法上略有不同。
 
@@ -45,8 +43,18 @@ should have pulished his Dictionary at the very beginning of the heyday of the m
 - 在这个句子中，连字符 "-" 用来连接形容词 "lexical"、"social" 和 "commercial" 与名词 "worlds"，形成复合形容词短语 "lexical worlds"、"social worlds" 和 "commercial worlds"。
 这种使用连字符表示这些形容词与名词之间存在一种紧密的关系，用来修饰名词 "worlds"，表示这些世界在不同领域或方面上需要被征服或征服。
 
-## p4 
-Johnson was a poet and critic who raised common sense to the heights of genius. 
+- anxious: 焦虑的；担心；渴望；忧虑
+- circumscribe: 限制，约束(自由、权利、权力等)
+- lexical: 词汇的
+
+It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own times as in ours, should have pulished his Dictionary at the very beginning of the heyday of the middle class.
+
+- heyday: 全盛时期，鼎盛时期
+
+
+
+## p4
+Johnson was a poet and critic who raised common sense to the heights of genius.
 - poet: 诗人
 - critic: 评论家
 - raise: 提升，提高
