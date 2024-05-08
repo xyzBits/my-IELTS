@@ -167,7 +167,10 @@ It was instantly recognised as a landmark throughout Europe.
 - celebration: 庆祝；庆祝活动；庆典；颂扬
 
 # p8
-Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'. 
+Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'.
+
+- the learned: 学者，有学问的人
+- the great: 伟大的人
 - patronage: 赞助；惠顾；资助；光顾；(掌权者给予提挈以换取支持的)互惠互利
 - obscurity: 默默无闻；晦涩；无名；黑暗；费解；昏暗；难懂的事
 - retirement: 退休；退休年龄
@@ -202,6 +205,7 @@ The Dictionary, together with his other writing, made Johnson famous and so well
 - esteem: 尊重；敬重；好评
 - prevail: 盛行；流行；普遍存在
 - pension: 养老金，退休金
+- prevail upon: 说服
 
 From then on, he was to become the Johnson of folklore.
 - folklore: 民俗；民间传说
